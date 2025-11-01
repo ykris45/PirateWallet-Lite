@@ -118,6 +118,7 @@ TRANSLATIONS = res/arrr_qt_wallet_es.ts \
                res/arrr_qt_wallet_pt.ts \
                res/arrr_qt_wallet_it.ts \
                res/arrr_qt_wallet_zh.ts \
+               res/arrr_qt_wallet_id_ID.ts \
                res/arrr_qt_wallet_tr.ts
 
 include(singleapplication/singleapplication.pri)
